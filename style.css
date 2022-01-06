@@ -32,6 +32,12 @@ margin: 0px 50px 50px 50px;
     width: 70%;
     padding:5px;
 }
+#image{
+    border-radius: 20px;
+    width: 70%;
+    padding:5px;
+    box-shadow: 2px 5px 20px 1px rgba(74, 128, 228);
+}
 #mission{
     background-color: rgba(136, 205, 206, 0.26);
     border-radius: 5px;
