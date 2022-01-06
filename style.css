@@ -20,8 +20,8 @@ margin: 0px 50px 50px 50px;
 #second-h1{
     text-align: center;
 }
-#big-h1{
-    font-size: 40px;
+.big-size-h1{
+    font-size: 50px;
 }
 .button{
     text-decoration: none;
