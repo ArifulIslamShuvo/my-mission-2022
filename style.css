@@ -20,6 +20,9 @@ margin: 0px 50px 50px 50px;
 #second-h1{
     text-align: center;
 }
+#big-h1{
+    font-size: 40px;
+}
 .button{
     text-decoration: none;
     color: white;
@@ -63,6 +66,9 @@ margin: 0px 50px 50px 50px;
 }
 .footer-h1{
     color: rgba(255, 99, 71, 0.849);
+}
+footer{
+    width: 100%;
 }
 
 
